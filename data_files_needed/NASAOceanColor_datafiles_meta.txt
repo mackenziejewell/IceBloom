@@ -1,0 +1,11 @@
+NASA Ocean Color files used:
+
+T20000922021120.L3m_MC_CHL.x_chlor_a.nc
+T20001222021151.L3m_MC_CHL.x_chlor_a.nc
+T20001532021181.L3m_MC_CHL.x_chlor_a.nc
+T20180912018120.L3m_MO_CHL.x_chlor_a.nc
+T20181212018151.L3m_MO_CHL.x_chlor_a.nc
+T20181522018181.L3m_MO_CHL.x_chlor_a.nc
+
+NASA Goddard Space Flight Center, Ocean Ecology Laboratory, Ocean Biology Processing Group. Moderate-resolution Imaging Spectroradiometer (MODIS) Terra Chlorophyll Data; 2018 Reprocessing. NASA OB.DAAC, Greenbelt, MD, USA. doi: 10.5067/TERRA/MODIS/L3B/CHL/2018. Accessed on 12/20/2022 https://oceancolor.gsfc.nasa.gov/atbd/chlor_a/ 
+import packages

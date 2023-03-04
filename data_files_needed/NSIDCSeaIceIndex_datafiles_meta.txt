@@ -1,0 +1,7 @@
+NSIDC sea ice index file used:
+
+N_Sea_Ice_Index_Regional_Daily_Data_G02135_v3.0.xlsx
+
+Sea ice index data (https://nsidc.org/data/g02135/versions/3) accessed 3/3/2023 from the archived data weblink: https://masie_web.apps.nsidc.org/pub/DATASETS/NOAA/G02135/seaice_analysis/
+
+Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, and A. K. Windnagel. (2017). Sea Ice Index, Version 3 [Data Set]. Boulder, Colorado USA. National Snow and Ice Data Center. https://doi.org/10.7265/N5K072F8. Date Accessed 03-03-2023.
